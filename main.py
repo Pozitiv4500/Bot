@@ -23,7 +23,7 @@ DB_HOST = 'localhost'
 DB_PORT = 5432
 DB_NAME = 'postgres'
 DB_USER = 'postgres'
-DB_PASSWORD = 'ALEXLOL19741978'
+DB_PASSWORD = 'PASSWORD'
 
 # Initialize the bot and state storage
 bot = Bot(token=API_TOKEN)
